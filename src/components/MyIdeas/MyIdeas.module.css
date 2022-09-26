@@ -1,0 +1,20 @@
+.btn {
+   border: 1px solid transparent;
+   border-radius: 5px;
+   padding: 5px 10px;
+   color: #edf2f4;
+   background-color: #2b2d42;
+   transition: all 250ms ease-in-out;
+}
+
+.btn:hover,
+.btn:focus {
+   cursor: pointer;
+   color: #2b2d42;
+   background-color: #edf2f4;
+
+}
+
+.btn:not(:last-child) {
+   margin-right: 10px;
+}

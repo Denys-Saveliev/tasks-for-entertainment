@@ -1,0 +1,13 @@
+- integrated API to application
+- https://www.boredapi.com/ - Loaded Data dynamically and created cards based on the response
+- Implemented slider in the section ""Ideas in my list"" to navigate between items
+- When clicking on the card in the section ""Choose fresh ideas to do"", the card added to the slider
+- When click on the card in the slider, become resolved, hence it should be removed from the slider, the category of the card added to 3rd section and data from the card added to the table as resolved item
+- Stored your score and status between page reloads (use localstorage)"
+- added 2 buttons to UI, first one to store and 2nd one to pull data from backend
+- confirmation that it works:
+  - Add some challenges to your list
+  - Save them to the backend
+  - Clear locaStorage
+  - Refresh the page and pull data
+  - You should see restored dataset "
