@@ -2,6 +2,7 @@
   "name": "tasks-for-entertainment",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Denys-Saveliev.github.io/tasks-for-entertainment/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
